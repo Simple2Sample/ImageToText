@@ -1,6 +1,4 @@
 import os
-from pathlib import Path
-#import pyautogui
 import pynput
 import time
 from cv2 import cv2
